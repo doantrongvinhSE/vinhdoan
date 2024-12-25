@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://easy-peasy.ai/cdn-cgi/image/quality=80,format=auto,width=700/https://fdczvxmwwjwpwbeeqcth.supabase.co/storage/v1/object/public/images/8070e244-5ddd-4fca-841b-b5aa628848ce/cd1a3ffe-10be-4eba-b83e-ffd8d2514aa5.png" align="center" style="width: 100%" />
+
 </div>  
   
 
